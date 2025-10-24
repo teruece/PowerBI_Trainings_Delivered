@@ -1,0 +1,1 @@
+This repository documents the Power BI training sessions delivered by Teruyuki Ito, focusing on empowering professionals with practical data visualization and reporting skills using Microsoft Power BI.
